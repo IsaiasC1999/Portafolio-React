@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.sectionSobreMi{
+
+    background-color: #141227;
+    height: 1260px;
+    width: 100%;
+
+}
+
+
+
+.h3Habi{
+    text-align: center;
+    font-size: 40px;
+    color: #2196F3;
+    margin-top: 150px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+.conteCardHabi{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}

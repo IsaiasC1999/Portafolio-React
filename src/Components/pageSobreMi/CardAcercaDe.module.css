@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.CardAcercaDe{
+    width: 1068px;
+    height: 379px;
+    border: solid 1px #2196F3;
+    border-radius: 7px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 7px 21px 199px 0px rgba(33,150,243,0.35);
+-webkit-box-shadow: 7px 21px 199px 0px rgba(33,150,243,0.35);
+-moz-box-shadow: 7px 21px 199px 0px rgba(33,150,243,0.35);
+}
+
+.imgCard{
+    width: 308px;
+    height: 261px;
+    background-color: rgba(101, 100, 119, 0.15);
+}
+
+.CardText{
+    margin-right: 10px;
+}
+.h3AcercaDe{
+    font-size: 40px;
+    color: #2196F3;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+.pAcercaDe{
+    color: white;
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
+
+}
