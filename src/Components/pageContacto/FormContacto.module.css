@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.formContacto{
+    background-color: #000028;
+    width: 946px;
+    height: 510px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 7px;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: 4px 4px 7px #2196F3;
+border-radius: 7px;
+
+}
+
+.h3Contacto{
+    color: #2196F3;
+    font-size: 25px;
+}
+.inputContacto {
+
+    color: white;
+    width: 693px;
+    height: 40px;    
+    background: #000028;
+    border: 1px solid #2196F3;
+    margin : 15px 0px;
+    font-size: 24px;
+    padding-left: 5px;
+    font-family: 'Oswald', sans-serif;
+ 
+}
+
+
+.textareaContacto{
+    border: 1px solid #2196F3;
+    background: #000028;
+    width: 693px;
+    margin-top: 15px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    padding-left: 5px;
+}
+
+
+.inputEnviar{
+    border: none;
+    width: 693px;
+    height: 40px;
+    background: #2196F3;
+    margin-top: 25px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    margin-left: 60px;
+    
+}
+
+
+.iconosText{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    margin-top: 8px;
+}
+
+
+.conteinerInputs{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}

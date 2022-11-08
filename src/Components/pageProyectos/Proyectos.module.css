@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+.sectionProye{
+    background-color: #141227;
+    color: white;
+    text-align: center;
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+    height: 732px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.proyectosConteiner{
+    width: 919px;
+    height: 450px;
+    background-color: aqua;
+}
+
+
+.h3proyectos{
+    color: #2196F3;
+    font-size: 36px;
+    margin-bottom: 40px;
+}

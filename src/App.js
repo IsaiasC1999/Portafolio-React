@@ -1,7 +1,8 @@
 import './App.css';
 import Header from './Components/Header';
 import Home from './Components/Home';
-import Proyectos from './Components/Proyectos';
+import Contacto from './Components/pageContacto/Contacto';
+import Proyectos from './Components/pageProyectos/Proyectos';
 import SobreMi from './Components/pageSobreMi/SobreMi';
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
    <Home/>
    <SobreMi/>
    <Proyectos/>
+   <Contacto/>
    </>
   );
 

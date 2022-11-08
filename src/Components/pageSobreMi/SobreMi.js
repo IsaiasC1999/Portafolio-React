@@ -13,7 +13,7 @@ const SobreMi = ()=>{
                 <CardAcercaDe/> 
                 <h3 className={style.h3Habi}>Habilidades</h3>
                 <div className={style.conteCardHabi}>
-                {CardHabiInfo.map((ele) => <CardHabi  title={ele.title} key={ele.id} dataitems={ele.items} /> )}
+                {CardHabiInfo.map((ele) => <CardHabi  title={ele.title}  key={ele.id} valor={ele.id}  dataitems={ele.items} /> )}
                 </div>
               
 
